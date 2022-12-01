@@ -1,0 +1,26 @@
+{
+  "aa": [
+    {
+      "id": 0,
+      "sub": "TEST1",
+      "link": "apple-magnifier://install?url=https://tigisoftware.com/download/AppsManager_1.7.0.ipa",
+      "title": "TEST1",
+      "urlimg": "http://www.publicdomainpictures.net/pictures/10000/nahled/thinking-monkey-11282237747K8xB.jpg",
+      "Twitter": "Aboodhanini",
+      "profile": "twitter://user?id=272291169",
+      "version": "1.0.8",
+      "description": "wow wow wow"
+    },
+    {
+      "id": 1,
+      "sub": "TEST2",
+      "link": "apple-magnifier://install?url=https://tigisoftware.com/download/AppsManager_1.7.0.ipa",
+      "title": "TEST2",
+      "urlimg": "http://www.publicdomainpictures.net/pictures/10000/nahled/thinking-monkey-11282237747K8xB.jpg",
+      "Twitter": "Aboodsaber",
+      "profile": "twitter://user?id=272291169",
+      "version": "1.0.8",
+      "description": "OMG OMG OMG"
+    }
+  ]
+}
