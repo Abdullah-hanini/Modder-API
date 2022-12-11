@@ -3,16 +3,16 @@
     {
       "id": 0,
       "ipa": true,
-      "sub": "TEST13",
+      "sub": "TEST10",
       "link": "apple-magnifier://install?url=https://tigisoftware.com/download/AppsManager_1.7.0.ipa",
       "adbkk": false,
       "linka": "apple-magnifier://install?url=https://tigisoftware.com/download/AppsManager_1.7.0.ipa",
-      "title": "TEST1",
+      "title": "TEST10",
       "urlimg": "http://www.publicdomainpictures.net/pictures/10000/nahled/thinking-monkey-11282237747K8xB.jpg",
       "Twitter": "Aboodhanini",
       "profile": "twitter://user?id=272291169",
       "version": "1.0.8",
-      "description": "wow wow wow"
+      "description": "Hello"
     },
     {
       "id": 1,
